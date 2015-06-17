@@ -1,4 +1,4 @@
-# Takes a makeCacheMatrix object x and checks if it has a cached
+# Takes a list x and checks if it has a cached
 # inverse matrix. If it does, the inverse matrix is returned.
 # Otherwise x's cached matrix is assigned to originalMatrix 
 # and the inverse matrix is created and set inside x.
